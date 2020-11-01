@@ -1,0 +1,7 @@
+{
+  "name": "wp_graphql",
+  "version": "1.0.0",
+  "description": "Graphql Test",
+  "main": "index.js",
+  "license": "MIT"
+}
